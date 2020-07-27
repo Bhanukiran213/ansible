@@ -1,0 +1,4 @@
+---
+# vars file for roles/apache
+node: webservers
+sname: httpd
